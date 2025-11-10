@@ -16,6 +16,6 @@ Input power polygons are duplicated across layers and connected with stitching v
 - Power Supply: A cascaded LDO paired with a buck converter delivers a low-ripple power supply to the ESP32.  
 - Signal Management: Signal buffers are employed to limit current sourced or sunk by the MCU.  
 - Manufacturing Considerations:  
-  Copper Balance: Meticulously maintained when connecting small components such as 0402 passives to prevent soldering defects such as tombstoning. 
+  Copper Balance: Meticulously maintained when connecting small components such as 0402 passives to prevent soldering defects such as tombstoning.   
   Thermal Relief Polygon Connection: Utilized for high-power through-hole components to enhance solderability.  
 - Draftsman PDF: Contains all assembly notes and fabrication notes, specifying complete documentation for manufacturing and assembly processes.  
