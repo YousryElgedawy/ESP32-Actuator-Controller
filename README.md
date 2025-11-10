@@ -11,7 +11,7 @@ A small GND plane is added on Layer 3 over Ethernet and SPI tracks to maintain t
 Power Distribution: Layer 3 incorporates multi-rail polygons for 24V, 5V, and 3.3V supplies.  
 Input power polygons are duplicated across layers and connected with stitching vias to support high current demands and minimize temperature rise. 
 High-Speed Signals: Ethernet and SPI signals are routed on the top layer with minimal layer changes, kept as short as possible, and isolated from noise sources including the buck converter, input power connector, and ESP32 antenna, with maximum distance maintained from these sources.  
-RJ45 Connector: Equipped with an internal transformer, Bob-Smith termination, and common-mode choke for optimal signal integrity. 
+RJ45 Connector: Equipped with an internal transformer, Bob-Smith termination, and common-mode choke for optimal signal integrity.  
 SPI Lines: Designed with extremely short traces, maintained at 50-ohm impedance, and implemented with series termination to preserve signal integrity. 
 Figures shows the MISO termination resistor is put close to the W5500 module and the other resistors are close to ESP32. 
 Power Supply: A cascaded LDO paired with a buck converter delivers a low-ripple power supply to the ESP32. 
