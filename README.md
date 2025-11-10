@@ -1,4 +1,5 @@
-<img width="40.8" height="78.2" alt="Series Termination SPI" src="https://github.com/user-attachments/assets/92709cfc-8649-490e-a721-16d545f39ba0" /># ESP32-Actuator-Controller
+<img width="40.8" height="78.2" alt="Series Termination SPI" src="https://github.com/user-attachments/assets/92709cfc-8649-490e-a721-16d545f39ba0" />
+# ESP32-Actuator-Controller
 24 V / 20-Channel Actuator Control Board is equipped with an ESP32-S3 and a W5500 Ethernet module for network connectivity, featuring 20 MOSFET-based SSRs to manage actuators along with protection against reverse polarity, overvoltage, short circuits, and ESD.
 Board Design Details
 
