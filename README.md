@@ -2,8 +2,8 @@
 24V / 20-Channel Actuator Control Board is equipped with an ESP32-S3 and a W5500 Ethernet module for network connectivity, featuring 20 MOSFET-based SSRs to manage actuators along with protection against reverse polarity, overvoltage, short circuits, and ESD.
 Board Design Details
 
-*Structure: 4-layer board with a Sig/GND/PWR/Sig stackup, utilizing outer layers for signal traces and inner layers for power distribution.  
-*Power Layers: Constructed with 2-ounce copper to handle load currents and withstand high ambient temperatures.  
+- Structure: 4-layer board with a Sig/GND/PWR/Sig stackup, utilizing outer layers for signal traces and inner layers for power distribution.  
+* Power Layers: Constructed with 2-ounce copper to handle load currents and withstand high ambient temperatures.  
 *Ground Planes:
 Layer 2 serves as the main solid GND plane to ensure overall stability. 
 Layer 4 features a GND polygon copper pour, functioning as a heat sink and forming a solid ground plane under Layer 3 to create capacitance with the PWR plane. 
