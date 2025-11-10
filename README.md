@@ -20,7 +20,7 @@ Input power polygons are duplicated across layers and connected with stitching v
 High-Speed Signals: Ethernet and SPI signals are routed on the top layer with minimal layer changes, kept as short as possible, and isolated from noise sources including the buck converter, input power connector, and ESP32 antenna, with maximum distance maintained from these sources.
 RJ45 Connector: Equipped with an internal transformer, Bob-Smith termination, and common-mode choke for optimal signal integrity.
 SPI Lines: Designed with extremely short traces, maintained at 50-ohm impedance, and implemented with series termination to preserve signal integrity.
-![SPI routhing]("C:\Users\Yousry\OneDrive\Desktop\Series Termination SPI.png")
+![SPI routhing]("C:\Users\Yousry\OneDrive\Desktop\Copper Balance Small (1).png")
 Figures shows the MISO termination resistor is put close to the W5500 module and the other resistors are close to ESP32.
 Power Supply: A cascaded LDO paired with a buck converter delivers a low-ripple power supply to the ESP32.
 ![]("C:\Users\Yousry\OneDrive\Desktop\Buck_LDO.png")
