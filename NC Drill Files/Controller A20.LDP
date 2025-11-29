@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Khaled\Hardware\Projects\Actuator Controller ESP32 W5500\24V 20CH ESP32 Actuator Controller\24V 20CH ESP32 Actuator Controller Board\Controller A20.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=controller a20-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=controller a20-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
