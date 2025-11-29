@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=(1) Controller A20_Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=(1) Controller A20_Power.SchDoc|FileName=(2) Controller A20_ESP32.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=(1) Controller A20_Power.SchDoc|FileName=(3) Controller A20_Ethernet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=(1) Controller A20_Power.SchDoc|FileName=(4) Controller A20_BUFFERs.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=(1) Controller A20_Power.SchDoc|FileName=(5) Controller A20_SSRs.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=(1) Controller A20_Power.SchDoc|FileName=(6) Controller A20_OUTPUT.SchDoc|SheetNumber=6
